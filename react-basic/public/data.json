@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S24",
+    "price": 799.99,
+    "inStock": true,
+    "description": "The latest flagship smartphone from Samsung."
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 16",
+    "price": 899.00,
+    "inStock": false,
+    "description": "The next generation iPhone with advanced features."
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 9",
+    "price": 699.50,
+    "inStock": true,
+    "description": "Powered by Google AI for a smart experience."
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 15 Pro",
+    "price": 599.99,
+    "inStock": true,
+    "description": "High-performance smartphone with a focus on camera technology."
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 13",
+    "price": 649.00,
+    "inStock": false,
+    "description": "Known for its fast charging and smooth performance."
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Buds 3",
+    "price": 149.99,
+    "inStock": true,
+    "description": "Premium wireless earbuds with active noise cancellation."
+  },
+  {
+    "id": 7,
+    "name": "Apple AirPods Pro (3rd Gen)",
+    "price": 249.00,
+    "inStock": true,
+    "description": "Industry-leading noise cancellation and immersive sound."
+  },
+  {
+    "id": 8,
+    "name": "Sony WH-1000XM6",
+    "price": 349.50,
+    "inStock": true,
+    "description": "Award-winning over-ear headphones with exceptional audio quality."
+  },
+  {
+    "id": 9,
+    "name": "Fitbit Sense 3",
+    "price": 299.95,
+    "inStock": true,
+    "description": "Advanced health and fitness smartwatch."
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 11",
+    "price": 399.00,
+    "inStock": true,
+    "description": "The latest iteration of Apple's popular smartwatch."
+  }
+]
